@@ -23,7 +23,5 @@ python3 dns_resolver.py
 - `wikipedia.org` (.org)
 - `www.fast.edu.pk` (.edu)
 
-Screenshots are in the `screenshots/` folder.
-
 ## Requirements
 Python 3, standard library only (`socket`, `struct`, `random`).
