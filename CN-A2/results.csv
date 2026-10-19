@@ -1,0 +1,7 @@
+scenario,protocol,data_sent,retransmissions,delivered,sim_time_ms,throughput_kbps
+A: Reliable,GBN,200.0,0.0,200.0,25212.0,63.46
+A: Reliable,SR,200.0,0.0,200.0,25212.0,63.46
+B: Loss 0.10,GBN,296.0,96.0,200.0,51492.0,31.07
+B: Loss 0.10,SR,251.0,51.0,200.0,55644.0,28.75
+"C: Mixed (L0.05, C0.05, D0.10)",GBN,329.0,129.0,200.0,65886.1,24.28
+"C: Mixed (L0.05, C0.05, D0.10)",SR,251.0,51.0,200.0,54684.6,29.26
